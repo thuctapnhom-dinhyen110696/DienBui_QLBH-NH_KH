@@ -1,0 +1,10 @@
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\Tài liêu năm 3\Thực tập nhóm\Project TTNhom\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
